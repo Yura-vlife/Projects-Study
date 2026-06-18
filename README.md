@@ -33,4 +33,4 @@ Most of the code available here was created for educational purposes and may con
 
 ---
 
-Developed by **Quadra Clips** 💻
+Developed by Vlifecompany 💻
