@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang ="en">
+  <head>
+<title>Travel Agency Page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Explore travel packages and top itineraries for your next adventure.">
+</head>
+<body>
+  <h1>Travel Destinations</h1>
+  <p>Welcome to our travel agency! We offer a wide range of travel opportunities, including tropical beach escapes, mountain adventures, cultural city tours, luxury resorts, family vacations, honeymoon packages, and international trips. Explore our destinations and find the perfect journey for your next adventure.</p>
+  <h2>Packages</h2>
+  <p>Explore our selection of travel packages designed for every type of traveler.
+  Whether you're looking for a relaxing beach vacation, an exciting city adventure,
+  or a romantic getaway, we have the perfect destination for you at great prices.</p>
+  <ul>
+  <li>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+  </li>
+  <li>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+  </li>
+</ul>
+    
+<h2>Top Itineraries</h2>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Coliseu de Roma"></a>
+    <figcaption>Package to visit the Colosseum in Rome</figcaption>
+    </figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Package to discover the beauties of Scandinavia"></a>
+    <figcaption>Package to discover the beauties of Scandinavia</figcaption>
+    </figure>
+  
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt = "Praia do Caribe"></a>
+    <figcaption>Packages to explore the beaches of the Caribbean</figcaption>
+
+</figure>
+
+
+  </body>
+</html>
