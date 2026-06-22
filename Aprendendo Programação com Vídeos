@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Compilation Page</title>
+</head>
+<body>
+<main>
+<h1> Aprendendo Programação com Vídeos</h1>
+<p> Esta página reúne uma pequena seleção de vídeos para quem está começando a estudar programação. Os conteúdos ajudam a entender conceitos básicos, praticar lógica e conhecer ferramentas importantes para criar projetos na web.</p>
+<section>
+    <h2>HTML para Iniciantes</h2>
+    <p>Neste vídeo, você aprende os primeiros conceitos de HTML, a linguagem usada para estruturar páginas na web.</p>
+    <iframe src="https://www.youtube.com/embed/MDLn5-zSQQI" title="Vídeo introdutório sobre HTML para iniciantes"
+    height="315" 
+    width="560"></iframe>
+     </section>
+    <section>
+       <h2>CSS e Estilização</h2>
+    <p>Este vídeo mostra como o CSS é usado para deixar uma página mais bonita, organizada e responsiva.</p>
+    <iframe src="https://www.youtube.com/embed/OEV8gMkCHXQ" title="CSS e Estilização." 
+    height="315" 
+    width="560"></iframe>
+     </section>
+    <section>
+        <h2>Lógica de Programação</h2>
+        <p>Neste conteúdo, você conhece ideias importantes da lógica de programação, como variáveis, condições e repetição.</p>
+        <iframe src="https://www.youtube.com/embed/zOjov-2OZ0E" title = "Lógica de Programação"
+        width="560"
+        height="315"></iframe>
+    </section>
+</main>
+</body>
+
+</html>
