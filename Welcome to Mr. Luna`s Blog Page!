@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mr. Luna`s Blog</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to Mr. Luna`s Blog Page!</h1>
+      <figure>
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg"
+          alt="a cat in the garden"
+        />
+        <figcaption>Mr. Lunas in the Garden</figcaption>
+      </figure>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#posts">Posts</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h2>About</h2>
+        <p>
+          Hi there! I'm Yura, a passionate writer who finds endless inspiration in the antics of my beloved cat, Mr. Luna`s.
+        </p>
+        <p>
+          Mr. Luna's blog is a cozy place to share stories, memories, and special moments from his everyday life. Here, readers can follow his adventures, from curious discoveries around the house to funny experiences, peaceful naps, and playful days.
+  </p>
+        </p>
+      </section>
+      <section id="posts">
+        <h2>Posts</h2>
+
+        <article>
+          <h3>Mr. Lunas First Day Home</h3>
+          <p>
+  Mr. Luna's first day home was full of curiosity, nervous little steps, and quiet moments of discovery. When he first arrived, he stayed close to his carrier, looking around the room with wide eyes and twitching whiskers. Every sound seemed new to him: the soft hum of the house, the footsteps in the hallway, and even the gentle rustle of his new blanket. Slowly, he began to explore, sniffing the furniture, walking carefully around the sofa, and stopping every few seconds to make sure he was safe.
+</p>
+
+<p>
+  As the day went on, Mr. Luna became more comfortable in his new home. He discovered a cozy spot near the window, where sunlight warmed the floor, and he watched the world outside with great interest. Later, he played with a small toy mouse, chased a rolling ball across the room, and finally curled up on his soft blanket for a nap. By bedtime, it was clear that Mr. Luna was beginning to understand that this was his home, a place where he would be loved, cared for, and surrounded by many new adventures.
+</p>
+        </article>
+        <article>
+          <h3>Mr. Lunas First Bath</h3>
+          <p>
+            Mr. Luna's first bath was a surprising adventure for everyone. At first, he stared at the warm water with suspicious eyes, unsure about what was happening. He tried to step away, shaking his paws and giving tiny confused meows. But with gentle hands, a soft towel, and plenty of patience, the bath became less scary. When it was over
+          </p>
+          <p>
+            Mr. Luna looked fluffy, clean, and a little proud of himself.
+          </p>
+        </article>
+        <article>
+          <h3>Mr. Lunas First Birthday Party</h3>
+          <p>
+  Mr. Luna's first birthday party was a joyful little celebration filled with colorful decorations, soft music, and plenty of treats. He walked around the room with curious eyes, sniffing the balloons, ribbons, and the special birthday toys prepared just for him.
+</p>
+
+<p>
+  His favorite moment was receiving a tiny tuna treat cake and playing with his new feather wand. By the end of the party, Mr. Luna was tired but happy, curled up beside his gifts like he knew the whole day had been
+        </article>
+      </section>
+    </main>
+    <footer>
+        <section id="contact">
+            <h2>Contact</h2>
+            <address>
+                <p>Phone: <a href="tel:5555555555">555-555-5555</a></p>
+                <p>Email: fake@email.com</p>
+            </address>
+        </section>
+    </footer>
+  </body>
+</html>
