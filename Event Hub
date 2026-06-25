@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>Event Hub</h1>
+      <nav>
+        <ul>
+          <li><a href="#upcoming-events">Upcoming Events</a></li>
+          <li><a href="#past-events">Past Events</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+
+        <article>
+          <h3>Tech Innovation Summit</h3>
+          <p>
+            Join developers, designers, and technology enthusiasts for a day of talks, workshops, and networking focused on the future of web development, artificial intelligence, and digital creativity.
+          </p>
+        </article>
+
+        <article>
+          <h3>Creative Coding Workshop</h3>
+          <p>
+            A hands-on workshop for beginners who want to learn how to build interactive web projects using HTML, CSS, and JavaScript. Participants will create small projects while learning practical coding skills.
+          </p>
+        </article>
+      </section>
+
+      <section id="past-events">
+        <h2>Past Events</h2>
+
+        <article>
+          <h3>Community Web Design Meetup</h3>
+          <p>
+            A local meetup where students and new developers shared their first website projects, exchanged feedback, and learned simple techniques for improving layout, accessibility, and user experience.
+          </p>
+          <img
+            src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg"
+            alt="People attending a web design meetup"
+          >
+        </article>
+
+        <article>
+          <h3>Beginner JavaScript Night</h3>
+          <p>
+            An evening event dedicated to basic JavaScript concepts, including variables, functions, conditionals, and small interactive examples for people taking their first steps in programming.
+          </p>
+          <img
+            src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg"
+            alt="Participants learning JavaScript at an event"
+          >
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
