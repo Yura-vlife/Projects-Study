@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Learning Survey</title>
+  </head>
+
+  <body>
+    <h1 id="title">Online Learning Survey</h1>
+
+    <p id="description">
+      Help us understand your learning experience and improve future online courses.
+    </p>
+
+    <form id="survey-form">
+      <div>
+      <label id="name-label" for="name">Name</label>
+      
+      <input
+        id="name"
+        type="text"
+        required
+        placeholder="Enter your full name"
+      >
+      </div>
+        <div>
+ <label id="email-label" for="email">Email</label>
+      <input
+        id="email"
+        type="email"
+        required
+        placeholder="Enter your email address"
+      >
+      </div>
+      <div>
+      <label id="number-label" for="number">Age</label>
+      <input
+        id="number"
+        type="number"
+        required
+        placeholder="Enter your age"
+        min="13"
+        max="100"
+      >
+      </div>
+      <h3>Which course level are you currently taking?</h3>
+      <select id="dropdown">
+        <option value="beginner">Beginner</option>
+        <option value="intermediate">Intermediate</option>
+        <option value="advanced">Advanced</option>
+      </select>
+
+      <h3>Would you recommend this course to a friend?</h3>
+      <label>
+        <input type="radio" name="recommend" value="maybe">
+        Maybe
+      </label>
+
+      <label>
+        <input type="radio" name="recommend" value="definitely">
+        Definitely
+      </label>
+
+      <label>
+        <input type="radio" name="recommend" value="not-sure">
+        Not sure
+      </label>
+
+      <h3>What topics would you like to learn more about?</h3>
+      <label>
+        <input type="checkbox" name="topics" value="html">
+        HTML
+      </label>
+
+      <label>
+        <input type="checkbox" name="topics" value="responsive-design">
+        Responsive Design
+      </label>
+
+      <label>
+        <input type="checkbox" name="topics" value="accessibility">
+        Accessibility
+      </label>
+
+      <label>
+        <input type="checkbox" name="topics" value="javascript">
+        JavaScript
+      </label>
+
+      <label>
+        <input type="checkbox" name="topics" value="css">
+        CSS
+      </label>
+
+      <h3>Additional Comments</h3>
+      <textarea placeholder="Share your thoughts, suggestions, or feedback here."></textarea>
+
+      <input id="submit" type="submit" value="Submit">
+    </form>
+    <footer>
+  <p>Criado por Yura-Vlifecompany</p>
+</footer>
+  </body>
+</html>
